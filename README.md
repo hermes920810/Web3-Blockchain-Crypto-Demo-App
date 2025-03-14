@@ -1,4 +1,4 @@
-# web3-blockchain-krypto-app
+# web3-blockchain-kRYPT-app
 
 This demo app shows how to create a smart contract using Solidity and connect it to the React frontend to show the transaction data.
 
